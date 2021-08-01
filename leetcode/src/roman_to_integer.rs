@@ -1,3 +1,7 @@
+// Benchmark not stable but : 
+// Runtime faster than 100.00%
+// Memory usage : 2.2 MB 21.65%
+
 struct Solution;
 
 impl Solution {
@@ -17,11 +21,7 @@ impl Solution {
         let mut last = 0;
         for rn in iter {
             let current = *map.get(&rn).unwrap();
-            if current >= last {
-                total += current
-            } else {
-                total -= current
-            }
+            total += if current >= last { current } else { -current };
             last = current;
         }
         total
