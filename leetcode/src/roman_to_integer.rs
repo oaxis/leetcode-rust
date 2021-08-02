@@ -1,6 +1,6 @@
-// Benchmark not stable but : 
+// Benchmark : 
 // Runtime faster than 100.00%
-// Memory usage : 2.2 MB 21.65%
+// Memory usage : 2.2 MB less than 21.65%
 
 struct Solution;
 
