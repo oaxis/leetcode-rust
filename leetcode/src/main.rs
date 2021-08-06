@@ -5,7 +5,8 @@
 // mod remove_element;
 // mod palindrome_number;
 // mod contains_duplicate;
-mod fair_candy_swap;
+// mod fair_candy_swap;
+mod peak_index_moutain_array;
 
 fn main() {
 }

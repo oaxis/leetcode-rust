@@ -1,3 +1,7 @@
+// Benchmark : 
+// Runtime faster than 100%
+// Memory usage : 2.4 MB less than 100.00%
+
 struct Solution;
 
 impl Solution {
