@@ -11,3 +11,4 @@ Targetting maximum runtime tradeoff
 - https://leetcode.com/problems/remove-element/
 - https://leetcode.com/problems/contains-duplicate/
 - https://leetcode.com/problems/fair-candy-swap/
+- https://leetcode.com/problems/peak-index-in-a-mountain-array
